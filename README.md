@@ -1,8 +1,3 @@
-# Recursos para las prácticas
+# Recursos para las práctica 03
 
-Recursos para las prácticas de ECS de las semana 1-4
-
-Estos recursos consisten en:
-* Imágenes
-* Sonidos
-* Archivos de configuración
+Recursos para las prácticas de ECS de la semana 3
